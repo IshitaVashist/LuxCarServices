@@ -57,6 +57,10 @@
 6. **Visit the Application**
    Open local host in your Browser
 
+## Screenshot
+
+![imageno2](https://github.com/user-attachments/assets/e9951833-7c7a-4e0e-ba5b-2eb81df22c89)
+
 ## 📌 Future Enhancements
 
 AI-powered ride fare prediction
