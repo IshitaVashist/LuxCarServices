@@ -1,6 +1,6 @@
 # <h1 align="center"> 🚙 Lux-Car-Services 🚗   </h1>
 
-<h2 align="center">LuxCarServices is a ride-hailing application similar to Uber, offering seamless booking, real-time tracking, and a smooth user experience. It connects passengers with drivers efficiently while ensuring a safe and reliable journey.
+<h2 align="center">Lux-Car-Services is a ride-hailing application similar to Uber, offering seamless booking, real-time tracking, and a smooth user experience. It connects passengers with drivers efficiently while ensuring a safe and reliable journey.
 </h2>
 
 
@@ -48,14 +48,13 @@
 2. **Install all Dependencies**
    - npm install
 3. **Setup the variables in .env file**:
-   
-   MONGODB_URI=your_mongo_connection_string
-   GOOGLE_MAPS_API_KEY=your_google_maps_api_key
-   NEXTAUTH_SECRET=your_auth_secret
-   STRIPE_SECRET_KEY=your_stripe_secret
+    - MongoDB
+    - Google-Maps
+    - NextAuth-Secret
+    - Stripe-Secret-Key
 5. **To Start the evelopment Server**
    npm run dev
-6. **Visit the App**
+6. **Visit the Application**
    Open local host in your Browser
 
 ## 📌 Future Enhancements
@@ -67,8 +66,7 @@ Multi-language support
 #This project is licensed under the MIT License.
 
 ## 🤝 **Contributing**
-
-Feel free to contribute by opening issues and pull requests.     
+ Feel Free to contribute
 
 ## 📞 **Contact**
 For inquiries, reach out at ishitavashsitprof@gmail.com 
